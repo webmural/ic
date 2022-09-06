@@ -1,5 +1,4 @@
-# [formula](index.html)
+# [`ic`](index.html)
 
-* [MathML](https://mdn.io/mathml)
-* [HTML](https://webmural.com/html)
-* [CSS](https://webmural.com/css)
+* [<samp>integrated circuit</samp>](https://webmural.com/ic/#sparks)
+* [<i>imum coeli</i>](https://webmural.com/ic/#stars)
